@@ -1,0 +1,19 @@
+Project 1
+
+Program: lexical analyzer
+Course Number: COP4991
+Title: Compilers
+
+Student Name: Stephen Baker
+N-number: N01411584
+Instructor: Eggin
+Due Date: 9/5/19
+Date Submitted: 9/2/19
+
+To run this program you need to run as a java program with test_file passed as arg0.
+
+This program takes an input file and breaks down the file into 
+tokens, operators and keywords. It checks each character and makes sure that
+the characters are in the c- language. The output will show any characters
+that are not in the language as an error and report everything else as a
+keyword, token or just output the operator. 
